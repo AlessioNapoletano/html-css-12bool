@@ -5,9 +5,25 @@
 }
 
 [class*="col"] {
-    height: 5rem;
     text-align: center;
     background-color: #4e5af3;
     color: white;
     border: 2px solid white;
+}
+
+.padding{
+    padding: 1rem;
+}
+
+.background-green{
+    background-color: #7ee36e;
+}
+
+.space{
+    height: 3rem;
+    width: 100%;
+}
+
+.height{
+    height: 4rem;
 }
